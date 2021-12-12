@@ -42,14 +42,14 @@ The following pictures show us the difference on the percentages of students who
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Relative to the other schools St. Thomas HS percentages increase to 90's and becomes the second highest top school.
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores by grade
+ - Math and reading scores by grade
 It affects the St Thomas HS and lowers the average math and reading scores when we replace grade 9 math and reading scores with NaN. Other schools are not affected. Ave math was 83.418349, reading was 83.848930 before replacing the 9th grade score. Math scores of Thomas HS gr 10-12 are not effected. 
 
 ![This image shows the result of math and reading scores by grade ](Resources/reading-by-grade.PNG)
 
 ![This image shows the result of math and reading scores by grade ](Resources/math-by-grade.PNG)
  
--- Scores by school spending
+  - Scores by school spending
 scores by school spending is not effected as seen below. Thomas HS is still a medium size school. 
 Bailey High School       628.0
 Cabrera High School      582.0
@@ -67,12 +67,12 @@ Thomas High School       638.0
 Wilson High School       578.0
 Wright High School       583.0
 
--- Scores by school size
+ - Scores by school size
 scores by school size is as seen in the image below. Thomas HS is in the 1000-2000 school size. Changing the 9th grade math and reading to NaN does not effect the # of students or the school size.
 
 ![This image shows the result of scores by school size ](Resources/scores-by-schoolsize.PNG)
 
--- Scores by school type
+ - Scores by school type
 Changing the gr 9 math, reading values for Thomas HS does not affect the scores by school type, Thomas HS is still a charter school. The image below shows the data relates to school type and scores.
 
 ![This image shows the result of scores by school type ](Resources/scores-by-schooltype.PNG)
